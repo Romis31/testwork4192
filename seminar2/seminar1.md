@@ -59,6 +59,7 @@ git log
 
 ## Исходный код 
 
+Тестовый текст для конфликта
 ## Таблицы
 
 First Header | Second Header
